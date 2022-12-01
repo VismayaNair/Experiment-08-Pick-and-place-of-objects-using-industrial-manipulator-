@@ -98,8 +98,11 @@ and click on the connect icon
 
 
 
-### output video and screen shots of pick and place 
-
+### output video and screen shots of pick and place :
+![output](81.png)
+![output](82.png)
+![output](83.png)
+![output](84.png)
 
 
 
@@ -108,7 +111,7 @@ and click on the connect icon
 
 ### Results: 
 
-
+Thus, the experiment to pick and place a regular shape using two finger gripper on the conveyor belt is sucessfully completed.
 
 
 
