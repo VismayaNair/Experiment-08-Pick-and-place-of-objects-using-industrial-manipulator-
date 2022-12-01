@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
 
 ### Aim :
@@ -94,7 +95,6 @@ and click on the connect icon
 ### Results: 
 
 Thus, the experiment to pick and place a regular shape using two finger gripper on the conveyor belt is sucessfully completed.
-
 
 
 
