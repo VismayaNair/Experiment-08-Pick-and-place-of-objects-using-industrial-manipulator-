@@ -83,29 +83,11 @@ and click on the connect icon
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### output video and screen shots of pick and place :
 ![output](81.png)
 ![output](82.png)
 ![output](83.png)
 ![output](84.png)
-
-
-
 
 
 
